@@ -1,0 +1,7 @@
+Tamanho em bytes de um char:   1
+Tamanho em bytes de um int:    4
+Tamanho em bytes de um float:  4
+Tamanho em bytes de um double: 8
+
+
+
